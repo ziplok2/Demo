@@ -14,5 +14,15 @@ namespace Demo
         {
             CompanyNameTextBox.Text = client.Name;
         }
+
+        private void ClientInfo_Load(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Save_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
